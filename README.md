@@ -42,11 +42,11 @@ The MNIST dataset contains **70,000 grayscale images (28×28 pixels)** of digits
 
 ---
 
-## 🗂️ Project Structure
+```## 🗂️ Project Structure
 Handwritten_Digit_Classifier/
 ├── Handwritten_Digit_Classifier.ipynb # Main notebook
 └── README.md # Documentation
-
+```
 
 ---
 
